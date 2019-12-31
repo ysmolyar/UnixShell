@@ -16,7 +16,7 @@ A shell operates as follows:
 
 Operators either modify the behavior of one command or chain together multiple commands into a single command line.
 
-Your shell should support seven operators:
+The shell supports seven operators:
 
 * Redirect input: sort < foo.txt
 * Redirect output: sort foo.txt > output.txt
